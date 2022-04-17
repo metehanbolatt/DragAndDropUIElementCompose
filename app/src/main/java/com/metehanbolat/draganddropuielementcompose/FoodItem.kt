@@ -21,7 +21,7 @@ val foodList = listOf(
     FoodItem(3, "Chocolate Cake", 29.99, R.drawable.food_cake)
 )
 
-val person = listOf(
+val persons = listOf(
     Person(1, "User 1", R.drawable.cat),
     Person(2, "User 2", R.drawable.cat),
     Person(3, "User 3", R.drawable.cat)
